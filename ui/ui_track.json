@@ -1,0 +1,12 @@
+{
+	"name": "brechin motorsports park",
+	"description": "GoKart Track",
+	"tags" : ["circuit", "Canada"],
+	"geotags": ["lat", "lon"],
+	"country": "Canada",
+	"city": "Brechin",
+	"length": "1.008",
+	"width": "9m",
+	"pitboxes": "1",
+	"run": "Counter Clockwise"
+}
