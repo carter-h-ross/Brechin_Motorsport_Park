@@ -1,12 +1,11 @@
 {
-	"name": "brechin motorsports park",
-	"description": "GoKart Track",
-	"tags" : ["circuit", "Canada"],
-	"geotags": ["lat", "lon"],
-	"country": "Canada",
-	"city": "Brechin",
-	"length": "1.008",
-	"width": "9m",
-	"pitboxes": "1",
-	"run": "Counter Clockwise"
+  "name": "Brechin Motorsports Park",
+  "description": "Description",
+  "tags": ["circuit, formula, gt,"],
+  "country": "Canada",
+  "city": "Brechin, ON",
+  "pitboxes": "24",
+  "year": 2025,
+  "author": "Carter Ross",
+  "version": "0.9"
 }
